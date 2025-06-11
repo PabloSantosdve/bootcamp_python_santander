@@ -1,0 +1,1 @@
+print("Hello, World!") # Exibe uma mensagem na tela
